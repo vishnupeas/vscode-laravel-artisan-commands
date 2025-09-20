@@ -47,6 +47,9 @@
         {
           "command": "artisan.make.controller"
         },
+				{
+          "command": "artisan.make.enum"
+        },
         {
           "command": "artisan.make.event"
         },
@@ -405,6 +408,11 @@
       }
     ],
     "commands": [
+      {
+        "command": "artisan.make.enum",
+        "title": "Artisan: Make Enum",
+        "shortTitle": "Make Enum"
+      },
       {
         "command": "artisan.run.command",
         "title": "Artisan: Run Command",
