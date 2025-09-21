@@ -2,6 +2,10 @@
 
 Run Laravel Artisan commands from within Visual Studio Code.
 
+## Credits
+This project is a fork of [Ryan Naddy/Laravel Artisan](https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan) but since the original extension is no longer maintained (See [Github](https://github.com/TheColorRed/vscode-laravel-artisan)), I have taken the liberty to fork it and continue development. 
+
+
 ## Features
 
 - Supports multiple instances of **artisan** in the same workspace hierarchy
