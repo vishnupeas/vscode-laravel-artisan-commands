@@ -1,16 +1,16 @@
 {
-  "name": "laravel-artisan",
-  "displayName": "Laravel Artisan",
+  "name": "laravel-artisan-toolkit",
+  "displayName": "Laravel Artisan Toolkit",
   "description": "Run Laravel Artisan commands within Visual Studio Code",
   "icon": "images/icon.png",
-  "version": "0.0.31",
-  "publisher": "ryannaddy",
+  "version": "1.0.0",
+  "publisher": "elmiur",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheColorRed/vscode-laravel-artisan"
+    "url": "https://github.com/vishnupeas/vscode-laravel-artisan-commands"
   },
   "bugs": {
-    "url": "https://github.com/TheColorRed/vscode-laravel-artisan/issues"
+    "url": "https://github.com/vishnupeas/vscode-laravel-artisan-commands/issues"
   },
   "engines": {
     "vscode": "^1.23.0"
