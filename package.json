@@ -7,10 +7,10 @@
   "publisher": "elmiur",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vishnupeas/vscode-laravel-artisan-commands"
+    "url": "https://github.com/vishnupeas/vscode-laravel-artisan-toolkit"
   },
   "bugs": {
-    "url": "https://github.com/vishnupeas/vscode-laravel-artisan-commands/issues"
+    "url": "https://github.com/vishnupeas/vscode-laravel-artisan-toolkit/issues"
   },
   "engines": {
     "vscode": "^1.23.0"
